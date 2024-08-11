@@ -1,0 +1,12 @@
+{
+  "name": "basescript",
+  "version": "0.0.1",
+  "supported_baserow_versions": "1.26.1",
+  "plugin_api_version": "0.0.1-alpha",
+  "description": "A scripting application for baserow",
+  "author": "R. Ferreira Fuentes",
+  "author_url": "https://ferreirafuent.es",
+  "url": "https://github.com/Raudius/basescript",
+  "license": "AGPL-3.0",
+  "contact": "r.ferreira.fuentes@gmail.com"
+}

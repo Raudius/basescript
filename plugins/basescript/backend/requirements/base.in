@@ -1,0 +1,2 @@
+-r /baserow/backend/requirements/base.in
+-e /baserow/backend/
